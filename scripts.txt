@@ -1,0 +1,17 @@
+cd .\OneDrive\Documentos\github\BancoDistribuido\Servidor\
+python .\server.py 1	
+
+cd .\OneDrive\Documentos\github\BancoDistribuido\
+npm start
+
+ivair
+ivair.puerari@estudante.uffs.edu.br
+1621101044
+
+joao
+joao@gmail.com
+1221101077
+
+maria
+maria@gmail.com
+1100001111	
