@@ -1,5 +1,5 @@
 # Banco Distríbuido
-Banco distribuído com API REST em Python para Cadastro de evento
+Banco distribuído com API REST em Python para Check-in de evento
 
 How to compile
 
